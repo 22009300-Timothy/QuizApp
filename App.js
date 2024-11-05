@@ -1,3 +1,3 @@
-import AllQuestions from './components/QuizApp';
+import QuizApp from './components/QuizApp';
 
-export default AllQuestions;
+export default QuizApp;
